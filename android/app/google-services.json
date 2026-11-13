@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "322978352826",
+    "project_id": "trackflow-3ea68",
+    "storage_bucket": "trackflow-3ea68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322978352826:android:52ad73d929304102dbbc83",
+        "android_client_info": {
+          "package_name": "com.flutter.trackflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322978352826-6vidu26i5c4dlf9318pdhkgpskhl3enj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.trackflow",
+            "certificate_hash": ""
+          }
+        },
+        {
+          "client_id": "322978352826-g1cd1leull3ktup85nrb0b7c1lho3cna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOpmylW6aIJKE8oU34vqJvYL2499gweMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322978352826-0l647dorvudbkhvo284pq8e9d2fhs600.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trackflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
